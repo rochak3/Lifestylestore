@@ -1,2 +1,2 @@
 # Lifestyle-store
-Lifestylestore Web Development Project
+Lifestylestore is an E-commerce shopping store website made using html and css.
